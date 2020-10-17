@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/src.dir/main.c.o CMakeFiles/src.dir/res.c.o CMakeFiles/src.dir/scanhandler.c.o CMakeFiles/src.dir/processor.c.o CMakeFiles/src.dir/builtin.c.o  -o src 
